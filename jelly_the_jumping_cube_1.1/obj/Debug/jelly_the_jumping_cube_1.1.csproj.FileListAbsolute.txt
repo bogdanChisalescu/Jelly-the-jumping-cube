@@ -1,0 +1,100 @@
+D:\Bogdan\Microsoft Visual Studio 2013\Useful_projects\jelly_the_jumping_cube_1.1\jelly_the_jumping_cube_1.1\bin\Debug\jelly_the_jumping_cube_1.1.exe.config
+D:\Bogdan\Microsoft Visual Studio 2013\Useful_projects\jelly_the_jumping_cube_1.1\jelly_the_jumping_cube_1.1\bin\Debug\jelly_the_jumping_cube_1.1.exe
+D:\Bogdan\Microsoft Visual Studio 2013\Useful_projects\jelly_the_jumping_cube_1.1\jelly_the_jumping_cube_1.1\bin\Debug\jelly_the_jumping_cube_1.1.pdb
+D:\Bogdan\Microsoft Visual Studio 2013\Useful_projects\jelly_the_jumping_cube_1.1\jelly_the_jumping_cube_1.1\obj\Debug\jelly_the_jumping_cube_1.1.csprojResolveAssemblyReference.cache
+D:\Bogdan\Microsoft Visual Studio 2013\Useful_projects\jelly_the_jumping_cube_1.1\jelly_the_jumping_cube_1.1\obj\Debug\jelly_the_jumping_cube_1._1.Form1.resources
+D:\Bogdan\Microsoft Visual Studio 2013\Useful_projects\jelly_the_jumping_cube_1.1\jelly_the_jumping_cube_1.1\obj\Debug\jelly_the_jumping_cube_1._1.Properties.Resources.resources
+D:\Bogdan\Microsoft Visual Studio 2013\Useful_projects\jelly_the_jumping_cube_1.1\jelly_the_jumping_cube_1.1\obj\Debug\jelly_the_jumping_cube_1.1.csproj.GenerateResource.Cache
+D:\Bogdan\Microsoft Visual Studio 2013\Useful_projects\jelly_the_jumping_cube_1.1\jelly_the_jumping_cube_1.1\obj\Debug\jelly_the_jumping_cube_1.1.exe
+D:\Bogdan\Microsoft Visual Studio 2013\Useful_projects\jelly_the_jumping_cube_1.1\jelly_the_jumping_cube_1.1\obj\Debug\jelly_the_jumping_cube_1.1.pdb
+D:\Bogdan\Microsoft Visual Studio 2013\Useful_projects\jelly_the_jumping_cube_1.1\jelly_the_jumping_cube_1.1\bin\Debug\Interop.WMPLib.dll
+D:\Bogdan\Microsoft Visual Studio 2013\Useful_projects\jelly_the_jumping_cube_1.1\jelly_the_jumping_cube_1.1\bin\Debug\AxInterop.WMPLib.dll
+D:\Bogdan\Microsoft Visual Studio 2013\Useful_projects\jelly_the_jumping_cube_1.1\jelly_the_jumping_cube_1.1\obj\Debug\Interop.WMPLib.dll
+D:\Bogdan\Microsoft Visual Studio 2013\Useful_projects\jelly_the_jumping_cube_1.1\jelly_the_jumping_cube_1.1\obj\Debug\AxInterop.WMPLib.dll
+D:\Bogdan\Microsoft Visual Studio 2013\Useful_projects\jelly_the_jumping_cube_1.1\jelly_the_jumping_cube_1.1\obj\Debug\jelly_the_jumping_cube_1.1.csproj.ResolveComReference.cache
+D:\Bogdan\Microsoft Visual Studio 2013\Useful_projects\jelly_the_jumping_cube_1.1\jelly_the_jumping_cube_1.1\bin\Debug\Program.cs
+D:\Bogdan\Microsoft Visual Studio 2013\Useful_projects\jelly_the_jumping_cube_1.1\jelly_the_jumping_cube_1.1\obj\Debug\jelly_the_jumping_cube_1._1.helper.resources
+D:\Bogdan\Microsoft Visual Studio 2013\Useful_projects\jelly_the_jumping_cube_1.2\jelly_the_jumping_cube_1.1\bin\Debug\jelly_the_jumping_cube_1.1.exe.config
+D:\Bogdan\Microsoft Visual Studio 2013\Useful_projects\jelly_the_jumping_cube_1.2\jelly_the_jumping_cube_1.1\obj\Debug\Interop.WMPLib.dll
+D:\Bogdan\Microsoft Visual Studio 2013\Useful_projects\jelly_the_jumping_cube_1.2\jelly_the_jumping_cube_1.1\obj\Debug\AxInterop.WMPLib.dll
+D:\Bogdan\Microsoft Visual Studio 2013\Useful_projects\jelly_the_jumping_cube_1.2\jelly_the_jumping_cube_1.1\obj\Debug\jelly_the_jumping_cube_1.1.csproj.ResolveComReference.cache
+D:\Bogdan\Microsoft Visual Studio 2013\Useful_projects\jelly_the_jumping_cube_1.2\jelly_the_jumping_cube_1.1\obj\Debug\jelly_the_jumping_cube_1.1.exe
+D:\Bogdan\Microsoft Visual Studio 2013\Useful_projects\jelly_the_jumping_cube_1.2\jelly_the_jumping_cube_1.1\obj\Debug\jelly_the_jumping_cube_1.1.pdb
+D:\Bogdan\Microsoft Visual Studio 2013\Useful_projects\jelly_the_jumping_cube_1.2\jelly_the_jumping_cube_1.1\bin\Debug\Program.cs
+D:\Bogdan\Microsoft Visual Studio 2013\Useful_projects\jelly_the_jumping_cube_1.2\jelly_the_jumping_cube_1.1\bin\Debug\jelly_the_jumping_cube_1.1.exe
+D:\Bogdan\Microsoft Visual Studio 2013\Useful_projects\jelly_the_jumping_cube_1.2\jelly_the_jumping_cube_1.1\bin\Debug\jelly_the_jumping_cube_1.1.pdb
+D:\Bogdan\Microsoft Visual Studio 2013\Useful_projects\jelly_the_jumping_cube_1.2\jelly_the_jumping_cube_1.1\bin\Debug\Interop.WMPLib.dll
+D:\Bogdan\Microsoft Visual Studio 2013\Useful_projects\jelly_the_jumping_cube_1.2\jelly_the_jumping_cube_1.1\bin\Debug\AxInterop.WMPLib.dll
+D:\Bogdan\Microsoft Visual Studio 2013\Useful_projects\jelly_the_jumping_cube_1.2\jelly_the_jumping_cube_1.1\obj\Debug\jelly_the_jumping_cube_1.1.csprojResolveAssemblyReference.cache
+D:\Bogdan\Microsoft Visual Studio 2013\Useful_projects\jelly_the_jumping_cube_1.2\jelly_the_jumping_cube_1.1\obj\Debug\jelly_the_jumping_cube_1._1.Form1.resources
+D:\Bogdan\Microsoft Visual Studio 2013\Useful_projects\jelly_the_jumping_cube_1.2\jelly_the_jumping_cube_1.1\obj\Debug\jelly_the_jumping_cube_1._1.helper.resources
+D:\Bogdan\Microsoft Visual Studio 2013\Useful_projects\jelly_the_jumping_cube_1.2\jelly_the_jumping_cube_1.1\obj\Debug\jelly_the_jumping_cube_1._1.Properties.Resources.resources
+D:\Bogdan\Microsoft Visual Studio 2013\Useful_projects\jelly_the_jumping_cube_1.2\jelly_the_jumping_cube_1.1\obj\Debug\jelly_the_jumping_cube_1.1.csproj.GenerateResource.Cache
+D:\Bogdan\Microsoft Visual Studio 2013\Useful_projects\jelly_the_jumping_cube_1.4\jelly_the_jumping_cube_1.1\bin\Debug\jelly_the_jumping_cube_1.1.exe.config
+D:\Bogdan\Microsoft Visual Studio 2013\Useful_projects\jelly_the_jumping_cube_1.4\jelly_the_jumping_cube_1.1\obj\Debug\Interop.WMPLib.dll
+D:\Bogdan\Microsoft Visual Studio 2013\Useful_projects\jelly_the_jumping_cube_1.4\jelly_the_jumping_cube_1.1\obj\Debug\AxInterop.WMPLib.dll
+D:\Bogdan\Microsoft Visual Studio 2013\Useful_projects\jelly_the_jumping_cube_1.4\jelly_the_jumping_cube_1.1\obj\Debug\jelly_the_jumping_cube_1.1.csproj.ResolveComReference.cache
+D:\Bogdan\Microsoft Visual Studio 2013\Useful_projects\jelly_the_jumping_cube_1.4\jelly_the_jumping_cube_1.1\obj\Debug\jelly_the_jumping_cube_1.1.exe
+D:\Bogdan\Microsoft Visual Studio 2013\Useful_projects\jelly_the_jumping_cube_1.4\jelly_the_jumping_cube_1.1\obj\Debug\jelly_the_jumping_cube_1.1.pdb
+D:\Bogdan\Microsoft Visual Studio 2013\Useful_projects\jelly_the_jumping_cube_1.4\jelly_the_jumping_cube_1.1\bin\Debug\Program.cs
+D:\Bogdan\Microsoft Visual Studio 2013\Useful_projects\jelly_the_jumping_cube_1.4\jelly_the_jumping_cube_1.1\bin\Debug\jelly_the_jumping_cube_1.1.exe
+D:\Bogdan\Microsoft Visual Studio 2013\Useful_projects\jelly_the_jumping_cube_1.4\jelly_the_jumping_cube_1.1\bin\Debug\jelly_the_jumping_cube_1.1.pdb
+D:\Bogdan\Microsoft Visual Studio 2013\Useful_projects\jelly_the_jumping_cube_1.4\jelly_the_jumping_cube_1.1\bin\Debug\Interop.WMPLib.dll
+D:\Bogdan\Microsoft Visual Studio 2013\Useful_projects\jelly_the_jumping_cube_1.4\jelly_the_jumping_cube_1.1\bin\Debug\AxInterop.WMPLib.dll
+D:\Bogdan\Microsoft Visual Studio 2013\Useful_projects\jelly_the_jumping_cube_1.4\jelly_the_jumping_cube_1.1\obj\Debug\jelly_the_jumping_cube_1.1.csprojResolveAssemblyReference.cache
+D:\Bogdan\Microsoft Visual Studio 2013\Useful_projects\jelly_the_jumping_cube_1.4\jelly_the_jumping_cube_1.1\obj\Debug\jelly_the_jumping_cube_1._1.Form1.resources
+D:\Bogdan\Microsoft Visual Studio 2013\Useful_projects\jelly_the_jumping_cube_1.4\jelly_the_jumping_cube_1.1\obj\Debug\jelly_the_jumping_cube_1._1.helper.resources
+D:\Bogdan\Microsoft Visual Studio 2013\Useful_projects\jelly_the_jumping_cube_1.4\jelly_the_jumping_cube_1.1\obj\Debug\jelly_the_jumping_cube_1._1.Properties.Resources.resources
+D:\Bogdan\Microsoft Visual Studio 2013\Useful_projects\jelly_the_jumping_cube_1.4\jelly_the_jumping_cube_1.1\obj\Debug\jelly_the_jumping_cube_1.1.csproj.GenerateResource.Cache
+D:\Bogdan\Microsoft Visual Studio 2013\Useful_projects\jelly_the_jumping_cube_1.4\jelly_the_jumping_cube_1.1\bin\Debug\MACTrackBarLib.dll
+G:\Proiect pentru atestat\jelly_the_jumping_cube_1.5\jelly_the_jumping_cube_1.1\bin\Debug\jelly_the_jumping_cube_1.1.exe.config
+G:\Proiect pentru atestat\jelly_the_jumping_cube_1.5\jelly_the_jumping_cube_1.1\obj\Debug\Interop.WMPLib.dll
+G:\Proiect pentru atestat\jelly_the_jumping_cube_1.5\jelly_the_jumping_cube_1.1\obj\Debug\AxInterop.WMPLib.dll
+G:\Proiect pentru atestat\jelly_the_jumping_cube_1.5\jelly_the_jumping_cube_1.1\obj\Debug\jelly_the_jumping_cube_1.1.csproj.ResolveComReference.cache
+G:\Proiect pentru atestat\jelly_the_jumping_cube_1.5\jelly_the_jumping_cube_1.1\obj\Debug\jelly_the_jumping_cube_1.1.exe
+G:\Proiect pentru atestat\jelly_the_jumping_cube_1.5\jelly_the_jumping_cube_1.1\obj\Debug\jelly_the_jumping_cube_1.1.pdb
+G:\Proiect pentru atestat\jelly_the_jumping_cube_1.5\jelly_the_jumping_cube_1.1\bin\Debug\Program.cs
+G:\Proiect pentru atestat\jelly_the_jumping_cube_1.5\jelly_the_jumping_cube_1.1\bin\Debug\jelly_the_jumping_cube_1.1.exe
+G:\Proiect pentru atestat\jelly_the_jumping_cube_1.5\jelly_the_jumping_cube_1.1\bin\Debug\jelly_the_jumping_cube_1.1.pdb
+G:\Proiect pentru atestat\jelly_the_jumping_cube_1.5\jelly_the_jumping_cube_1.1\bin\Debug\MACTrackBarLib.dll
+G:\Proiect pentru atestat\jelly_the_jumping_cube_1.5\jelly_the_jumping_cube_1.1\bin\Debug\Interop.WMPLib.dll
+G:\Proiect pentru atestat\jelly_the_jumping_cube_1.5\jelly_the_jumping_cube_1.1\bin\Debug\AxInterop.WMPLib.dll
+G:\Proiect pentru atestat\jelly_the_jumping_cube_1.5\jelly_the_jumping_cube_1.1\obj\Debug\jelly_the_jumping_cube_1.1.csprojResolveAssemblyReference.cache
+G:\Proiect pentru atestat\jelly_the_jumping_cube_1.5\jelly_the_jumping_cube_1.1\obj\Debug\jelly_the_jumping_cube_1._1.Form1.resources
+G:\Proiect pentru atestat\jelly_the_jumping_cube_1.5\jelly_the_jumping_cube_1.1\obj\Debug\jelly_the_jumping_cube_1._1.helper.resources
+G:\Proiect pentru atestat\jelly_the_jumping_cube_1.5\jelly_the_jumping_cube_1.1\obj\Debug\jelly_the_jumping_cube_1._1.Properties.Resources.resources
+G:\Proiect pentru atestat\jelly_the_jumping_cube_1.5\jelly_the_jumping_cube_1.1\obj\Debug\jelly_the_jumping_cube_1.1.csproj.GenerateResource.Cache
+F:\Proiect pentru atestat\jelly_the_jumping_cube_1.5\jelly_the_jumping_cube_1.1\bin\Debug\jelly_the_jumping_cube_1.1.exe.config
+F:\Proiect pentru atestat\jelly_the_jumping_cube_1.5\jelly_the_jumping_cube_1.1\obj\Debug\Interop.WMPLib.dll
+F:\Proiect pentru atestat\jelly_the_jumping_cube_1.5\jelly_the_jumping_cube_1.1\obj\Debug\AxInterop.WMPLib.dll
+F:\Proiect pentru atestat\jelly_the_jumping_cube_1.5\jelly_the_jumping_cube_1.1\obj\Debug\jelly_the_jumping_cube_1.1.csproj.ResolveComReference.cache
+F:\Proiect pentru atestat\jelly_the_jumping_cube_1.5\jelly_the_jumping_cube_1.1\obj\Debug\jelly_the_jumping_cube_1.1.exe
+F:\Proiect pentru atestat\jelly_the_jumping_cube_1.5\jelly_the_jumping_cube_1.1\obj\Debug\jelly_the_jumping_cube_1.1.pdb
+F:\Proiect pentru atestat\jelly_the_jumping_cube_1.5\jelly_the_jumping_cube_1.1\bin\Debug\Program.cs
+F:\Proiect pentru atestat\jelly_the_jumping_cube_1.5\jelly_the_jumping_cube_1.1\bin\Debug\jelly_the_jumping_cube_1.1.exe
+F:\Proiect pentru atestat\jelly_the_jumping_cube_1.5\jelly_the_jumping_cube_1.1\bin\Debug\jelly_the_jumping_cube_1.1.pdb
+F:\Proiect pentru atestat\jelly_the_jumping_cube_1.5\jelly_the_jumping_cube_1.1\bin\Debug\MACTrackBarLib.dll
+F:\Proiect pentru atestat\jelly_the_jumping_cube_1.5\jelly_the_jumping_cube_1.1\bin\Debug\Interop.WMPLib.dll
+F:\Proiect pentru atestat\jelly_the_jumping_cube_1.5\jelly_the_jumping_cube_1.1\bin\Debug\AxInterop.WMPLib.dll
+F:\Proiect pentru atestat\jelly_the_jumping_cube_1.5\jelly_the_jumping_cube_1.1\obj\Debug\jelly_the_jumping_cube_1.1.csprojResolveAssemblyReference.cache
+F:\Proiect pentru atestat\jelly_the_jumping_cube_1.5\jelly_the_jumping_cube_1.1\obj\Debug\jelly_the_jumping_cube_1._1.Form1.resources
+F:\Proiect pentru atestat\jelly_the_jumping_cube_1.5\jelly_the_jumping_cube_1.1\obj\Debug\jelly_the_jumping_cube_1._1.helper.resources
+F:\Proiect pentru atestat\jelly_the_jumping_cube_1.5\jelly_the_jumping_cube_1.1\obj\Debug\jelly_the_jumping_cube_1._1.Properties.Resources.resources
+F:\Proiect pentru atestat\jelly_the_jumping_cube_1.5\jelly_the_jumping_cube_1.1\obj\Debug\jelly_the_jumping_cube_1.1.csproj.GenerateResource.Cache
+E:\Bogdan\jelly_the_jumping_cube_1.5\jelly_the_jumping_cube_1.1\bin\Debug\jelly_the_jumping_cube_1.1.exe.config
+E:\Bogdan\jelly_the_jumping_cube_1.5\jelly_the_jumping_cube_1.1\obj\Debug\Interop.WMPLib.dll
+E:\Bogdan\jelly_the_jumping_cube_1.5\jelly_the_jumping_cube_1.1\obj\Debug\AxInterop.WMPLib.dll
+E:\Bogdan\jelly_the_jumping_cube_1.5\jelly_the_jumping_cube_1.1\obj\Debug\jelly_the_jumping_cube_1.1.csproj.ResolveComReference.cache
+E:\Bogdan\jelly_the_jumping_cube_1.5\jelly_the_jumping_cube_1.1\obj\Debug\jelly_the_jumping_cube_1.1.exe
+E:\Bogdan\jelly_the_jumping_cube_1.5\jelly_the_jumping_cube_1.1\obj\Debug\jelly_the_jumping_cube_1.1.pdb
+E:\Bogdan\jelly_the_jumping_cube_1.5\jelly_the_jumping_cube_1.1\bin\Debug\Program.cs
+E:\Bogdan\jelly_the_jumping_cube_1.5\jelly_the_jumping_cube_1.1\bin\Debug\jelly_the_jumping_cube_1.1.exe
+E:\Bogdan\jelly_the_jumping_cube_1.5\jelly_the_jumping_cube_1.1\bin\Debug\jelly_the_jumping_cube_1.1.pdb
+E:\Bogdan\jelly_the_jumping_cube_1.5\jelly_the_jumping_cube_1.1\bin\Debug\MACTrackBarLib.dll
+E:\Bogdan\jelly_the_jumping_cube_1.5\jelly_the_jumping_cube_1.1\bin\Debug\Interop.WMPLib.dll
+E:\Bogdan\jelly_the_jumping_cube_1.5\jelly_the_jumping_cube_1.1\bin\Debug\AxInterop.WMPLib.dll
+E:\Bogdan\jelly_the_jumping_cube_1.5\jelly_the_jumping_cube_1.1\obj\Debug\jelly_the_jumping_cube_1.1.csprojResolveAssemblyReference.cache
+E:\Bogdan\jelly_the_jumping_cube_1.5\jelly_the_jumping_cube_1.1\obj\Debug\jelly_the_jumping_cube_1._1.Form1.resources
+E:\Bogdan\jelly_the_jumping_cube_1.5\jelly_the_jumping_cube_1.1\obj\Debug\jelly_the_jumping_cube_1._1.helper.resources
+E:\Bogdan\jelly_the_jumping_cube_1.5\jelly_the_jumping_cube_1.1\obj\Debug\jelly_the_jumping_cube_1._1.Properties.Resources.resources
+E:\Bogdan\jelly_the_jumping_cube_1.5\jelly_the_jumping_cube_1.1\obj\Debug\jelly_the_jumping_cube_1.1.csproj.GenerateResource.Cache
